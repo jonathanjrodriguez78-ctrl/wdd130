@@ -72,18 +72,28 @@ article {
 
 .hero article {
     position: absolute;
-    top: 45%;
+    top: 55%;
     left: 5%;
     width: 90%;
-    background-color: rgba(255, 255, 255, 0.9);
-    padding: 15px;
+    padding: 15px 20px;
+    background-color: rgba(244, 255, 255, 0.8);
+    color: var(--cor-destaque1);
 }
 
 .hero article img {
     float: right;
-    width: 185px;
+    width: 100px;
 }
 
 .socialmedia a {
     text-decoration: none;
+}
+
+.history {
+    background-color: var(--cor-destaque2);
+
+}
+
+.adventure {
+    background-color: var(--cor-sequndaria);
 }
