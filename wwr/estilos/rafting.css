@@ -87,12 +87,3 @@ article {
 .socialmedia a {
     text-decoration: none;
 }
-
-.history {
-    background-color: var(--cor-destaque2);
-
-}
-
-.adventure {
-    background-color: var(--cor-sequndaria);
-}
