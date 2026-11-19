@@ -83,7 +83,7 @@ aside {
 }
 
 aside img {
-    width: 200pi;
+    width: 200px;
     position: relative;
 
 }
@@ -95,9 +95,12 @@ aside img {
 
 aside h2 {
     position: absolute;
-    top: 25px;
-    left: 110px;
+    top: 55px;
+    left: 50%;
     color: #000;
+    z-index: 1;
+    transform: translateX(-50%);
+
 }
 
 footer {
@@ -119,5 +122,3 @@ footer {
 .indentacao {
     padding-left: 2rem;
 }
-
-/*--------*/
