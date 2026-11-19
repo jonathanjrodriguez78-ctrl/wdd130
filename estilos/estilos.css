@@ -97,9 +97,9 @@ aside h2 {
     position: absolute;
     top: 55px;
     left: 50%;
-    color: #000;
+    color: #000000;
     z-index: 1;
-    transform: translateX(-50%);
+    transform: translateX(-52%);
 
 }
 
